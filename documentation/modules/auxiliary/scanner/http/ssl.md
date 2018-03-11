@@ -58,5 +58,3 @@ msf auxiliary(ssl) > run
 [*] Auxiliary module execution completed
 msf auxiliary(ssl) >
 ```
-
-As you can see, the scan revealed SSL certificates installed on host along with other info like Signature algorithm etc.
